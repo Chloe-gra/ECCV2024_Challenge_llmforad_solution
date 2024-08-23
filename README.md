@@ -30,6 +30,12 @@
    │   │   │── vqa_anno
 ```
 
+## Checkpoints
+Baidu Netdisk
+Link: https://pan.baidu.com/s/1GKda_b9s0ogPX1GU0wKyjg 
+Code: dhr4 
+
+
 
 ## Train: Stage 1 Finetune
 ```bash
