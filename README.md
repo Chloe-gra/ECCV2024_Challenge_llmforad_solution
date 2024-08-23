@@ -1,11 +1,11 @@
 # ECCV2024_Challenge_llmforad_solution
 
 ## Stage 1 Finetune
-'''bash
+```bash
 python llava-next_finetune.py
-'''
+```
 
 ## Inference
-'''bash
+```bash
 python inference.py
-'''
+```
